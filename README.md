@@ -1,1 +1,1 @@
-Repository for thesis
+Repository for particle physics thesis
